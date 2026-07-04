@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.vscode/
+.idea/
+
+# Python / local tooling
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local figure sources used to generate assets/works/*
+# The deployed site only needs the rendered images under assets/works/.
+images/
+
+# Local preview artifacts
+assets/works/contact-sheet.jpg
